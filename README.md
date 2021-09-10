@@ -1,4 +1,4 @@
-# driver-assistance
+# Driver assistance by eye tracking
 
 This code has the ability to detect the face and the pupil. If the person's pupil is not centered this will trigger an alarm. There are two python scripts. One is for windows and the other one is for Raspberry pi. 
 
